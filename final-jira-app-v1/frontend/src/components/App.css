@@ -1,0 +1,101 @@
+/* General App Styles */
+.app {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+/* Header Styling */
+.header {
+  background-color: #0052cc;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+/* Employee List and Task Assignment */
+.employee-list, .assign-task {
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+h2 {
+  color: #0052cc;
+}
+
+input, select {
+  margin-right: 10px;
+  padding: 5px;
+}
+
+button {
+  background-color: #0052cc;
+  color: white;
+  border: none;
+  border-radius: 3px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #003d99;
+}
+
+/* Tabs Styling */
+.tabs-container {
+  margin-top: 20px;
+}
+
+.tabs {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.tab-button {
+  background-color: #f4f5f7;
+  color: #172b4d;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.tab-button.active {
+  background-color: #0052cc;
+  color: white;
+  border: none;
+}
+
+.tab-button:hover {
+  background-color: #dfe1e6;
+}
+
+/* Task List Styling */
+.tab-content {
+  background-color: white;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.task-list {
+  list-style: none;
+  padding: 0;
+}
+
+.task-item {
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background-color: #f4f5f7;
+}
+
+.task-item strong {
+  color: #0052cc;
+}
