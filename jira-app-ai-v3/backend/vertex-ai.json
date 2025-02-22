@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ai-test-project-451607",
+  "private_key_id": "b75b51c2b698ed7d8b2d41e1527a7dd6348567f6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDIu7CozNTVujN6\n74Z+l69evQ4/k6eFwFuxFeqSi6dAPP+BfDtSxoBGMRu7rvYf24I2oU5ZwEOjmZi2\negnGJXzYGmUobYds3U+46Or0eAdPCe504Ngsezj8NrVjUzxr95+tLnzapBMOeqGL\n2wD04ffFhNYHJZFiHu01hg3VWAo7CeO8nkOmRGkVUjldntveq9wbUWdamko9PT5g\npu3DRAXsSpjMnvnlUC2+UL7WEvpYKBBuNwUuANxnx5kDPceQ1pS6TxgIR5LYo0of\nxqhQBKc6ut/qpYmwdgpPIZSXji0PMpvh+mpe9UtlXATRXAJteOFkfCZsIy8qlihV\n9u/lQr/NAgMBAAECggEAA7brbjg6IQlczgPUMJAEhAOKGbWVBkXYvIZsDJGuguMO\nFFqU63N2aLYcbgTvE4hXmMSz4zfKWKLtP0UzXJoRfRtB73VVafePc9vFi0gUVItZ\nwQpvHaWbGJm3khK2fcX7i7QeRdp+6sfsqN6g3ic3U02hu0if79mkKJcmNuI18EE2\ndFHkR6yujG64PZjngH5jWbqrW4CoVLjm7r0zEKgCnZgDW7Fx2cuUeTa/6o4JS3ae\nQ5J9cNWHenzBL5jXsuvrr1aGaEO4wwtp0E004qe7nE2wIOUBQcCyvhO0a0iP91pl\ndBkRouBhm/zXgJvaJdFGMSTHNCduFy6MJaJQHh8kiQKBgQDmcupHMxB3FldnraLr\nPYDBNf+XPUkvjUxMx9Eop3LjnrYsZ5urn2qU9Q6FI0bhMyder2K/ICudq+aa9NCS\nvo1QuygkiQktQ4zM+HHoqrAb+oLSx8ziz62DwDm3egK3ftksVV+hUJxFhb8GgaiG\nJntEmnRXnTVfoIs4tml1MasTuQKBgQDe/VIf5jPYbg/xwlGEJoxK12IneD2qkiDU\nHr58XZvGuHhORUkP2FsDD5w6X3qzqbEDL6f+oxSPGmXxXpUKOx7C3DmiOAa3Ut+9\npjExc+j9cXIQEu7+2TGLTW0QCyGLbfh7AIqWZ+YxVUD1xcjAXvdHGpFdkpTj1URx\nCUPBbj8+tQKBgBG7mAGAkWzIgFNPDjFR2z2C3TcTFTWehteFrLeXIwUW6mfCVT1A\nmB/8N3DRRRwBJq9niY6xeAm695TG7+HK3e7vZ+hfzx/3ibcgCwvfTovom/aCP2bY\nmj6AJTDUJ69dCHMb4q70GAJVh1yFz6T7AxNFW1x+kWPZY70qdDT7bHGpAoGBAIju\nHeQgxG1/CKN4o/32fefnYwrBt3xqx2X6ixZrlSDuXlISEc99GEZE67acswhoh55h\nQVQIaLOHjlotrm/d5gHaojmPFfC1H1eiGks31jbr1xMvzTsJvHbCUNqtOygXm6JM\nrs21d5GLvJwvnBslNcuf8Ov4+xz89U5EVisNvCCRAoGAGzccRiLQNerFVVdJSmdu\nZN5TV1xICzI6uHZjWKKAULjS0ftmTu+ZjPc77ZXAN18SfZzyRSOEwYzjDJm9yISQ\nhdoKs+OKAmUJykcQseFqCgRA0jaHKhdvLW33+8KXTygGR8Unh6aKptXQhrQpodUk\nNW9A9thju8nzSS+2RRsOoc4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "vertext-ai-task-manager@ai-test-project-451607.iam.gserviceaccount.com",
+  "client_id": "105334828703590141008",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vertext-ai-task-manager%40ai-test-project-451607.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
