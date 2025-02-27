@@ -1,7 +1,7 @@
 const axios = require("axios");
 const { GoogleAuth } = require("google-auth-library");
 
-// Auto-Completion using OpenAI
+// Auto-Completion using Gemini
 const getTaskSuggestions = async (inputText) => {
     try {
         const response = await axios.post(
