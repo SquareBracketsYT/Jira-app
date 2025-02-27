@@ -42,7 +42,7 @@ const checkGrammar = async (text) => {
 };
 
 
-// Task Time Prediction using Google Vertex AI
+// Task Time Prediction using Google Gemini
 const predictTaskTime = async (taskText) => {
     try {
         // const accessToken = await getAccessToken();
